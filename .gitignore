@@ -2,6 +2,11 @@
 
 # C extensions
 *.so
+*.o
+*.log
+
+# C Binary
+queryperf
 
 # Packages
 *.egg
